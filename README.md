@@ -9,7 +9,7 @@
 
 - 🎯 Được làm quen với quy trình làm việc thực tế, học cách làm việc nhóm.
 - 🌍 Sử dụng được Git và GitHub cơ bản.
-- 🚀 Thành thạo Java Script, làm quen và thực hành với framework React Native.
+- 🚀 Thành thạo JavaScript, làm quen và thực hành với framework React Native.
 - 💡 Học hỏi được thêm nhiều điều từ các anh mentor và đồng đội.
 
 ---
